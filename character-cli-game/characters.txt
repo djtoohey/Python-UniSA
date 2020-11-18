@@ -1,0 +1,27 @@
+Wonder Woman
+Diana Prince
+h 5 5 0 0 90
+Batman
+Bruce Wayne
+h 6 2 0 4 80
+The Joker
+Jack Napier
+v 5 1 0 4 80
+Superman
+Clark Kent
+h 7 4 0 3 100
+Catwoman
+Selina Kyle
+v 12 0 6 6 50
+Aquaman
+Arthur Curry
+h 8 2 2 4 30
+Iron Man
+Tony Stark
+h 10 8 2 0 50
+Hulk
+Bruce Banner
+h 7 2 1 4 80
+Thanos
+n/a
+v 10 2 0 8 90
